@@ -15,6 +15,7 @@
   inventory:
   - chem.Coffee
   - chem.Cola
+  - chem.Milk
   - chem.Cream
   - chem.Ice
   - chem.Tea
